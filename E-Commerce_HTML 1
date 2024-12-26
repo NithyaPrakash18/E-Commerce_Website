@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resto Ordering Website</title>
+    <link rel="stylesheet" href="home.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Resto</h1>
+        <div class="nav">
+            <a href="#">Home</a>
+            <a href="projectadd.html">Menu</a>
+            <a href="contact.html">Contact</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="intro">
+            <p>Welcome to <strong>Resto</strong>, where every meal is a story of passion and perfection. Nestled in the heart of the city, we pride ourselves on crafting unforgettable dining experiences that resonate with taste and warmth. Whether you're visiting for a hearty meal or placing an order for delivery, our dedication to excellence shines through every dish.</p>
+
+            <p>At Resto, quality is our cornerstone. Each dish is prepared using the freshest ingredients, handpicked to ensure unparalleled flavor and nutrition. Our chefs, with their culinary mastery, blend traditional recipes with contemporary techniques to bring you a menu that's both innovative and satisfying. From farm-fresh produce to aromatic spices, every detail is meticulously chosen.</p>
+
+            <p>We understand that time is precious. That's why our delivery service is as swift as it is reliable. Our streamlined operations ensure your order reaches your doorstep piping hot, well within the promised time. Whether you're indulging in comfort food or exploring our gourmet options, your satisfaction is our commitment.</p>
+
+            <p>Beyond the plate, we strive to create an ambiance of joy and connection. Our friendly staff, inviting interiors, and seamless service reflect our mission to be more than just a restaurant—we aim to be a cherished part of your daily life. Thank you for making Resto your preferred dining destination.</p>
+        </div>
+    </div>
+    <img src="res.jpg" alt="Restaurant Image" class="banner-image">
+</body>
+</html>
